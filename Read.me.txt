@@ -1,0 +1,5 @@
+I used stackoverflow as a reference for coming up with the logic of the loop. 
+https://stackoverflow.com/questions/48828163/stock-ticker-loop.
+
+
+
